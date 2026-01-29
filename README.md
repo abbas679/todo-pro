@@ -6,8 +6,8 @@ A professional **Todo App** built with **React, TypeScript, Tailwind CSS, and Vi
 
 ## **Live Demo**
 
-_(Optional: Add your deployed app link here, e.g., Netlify / Vercel)_
-[TodoPro Live](#)
+
+[TodoPro Live](https://zesty-sawine-00459c.netlify.app/)
 
 ---
 
